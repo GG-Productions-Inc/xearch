@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomSearchEngine id="98b873510c4ab9f58" creator="007033794072330148520" language="en" encoding="UTF-8" cx_id="98b873510c4ab9f58" last_update_time_millis="1624901305380" autocompletions="true">
+  <Title>GG Search</Title>
+  <Description>The new, fast search.</Description>
+  <Context>
+    <BackgroundLabels>
+      <Label name="_include_" mode="BOOST"/>
+      <Label name="_exclude_" mode="ELIMINATE"/>
+    </BackgroundLabels>
+  </Context>
+  <LookAndFeel code="4" element_layout="5" theme="6" custom_theme="true" element_branding="hide" enable_cse_thumbnail="true" font="1">
+    <Logo url="https://trinket-user-assets.trinket.io/f5ee38d56b4b83c47acb57d10c75ff7a850c961f-60d9f8db778ee0a871f2a388.jpeg" height="100"/>
+    <Colors/>
+    <Promotions/>
+    <SearchControls input_border_color="#000000" button_border_color="#FF0000" button_background_color="#FF0000"/>
+    <Results/>
+  </LookAndFeel>
+  <ImageSearchSettings layout="2"/>
+  <sort_by_keys label="Relevance" key=""/>
+  <sort_by_keys label="Date" key="date"/>
+  <cse_advance_settings/>
+</CustomSearchEngine>
