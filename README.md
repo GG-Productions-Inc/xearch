@@ -1,4 +1,4 @@
-# G-Lion
+# Xearch
 Welcome to the official G-Lion project.
 <br>
 # Preview
