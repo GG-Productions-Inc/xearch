@@ -1,7 +1,3 @@
-p {
-  color: ghostwhite;
-}
-
-h1 {
-  color: ghostwhite;
+article h1, article p{
+     font-family: sans-serif
 }
